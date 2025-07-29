@@ -23,3 +23,9 @@ This project is a beginner-friendly introduction to Java GUI development, featur
 - **Swing** for GUI (Graphical User Interface)
 
 ---
+
+## 🙋‍♂️ Author
+
+**Asmitjyoti Barman**  
+📍 IIT BHU'28 | Aspiring Software Engineer  
+🔗 [LinkedIn](www.linkedin.com/in/asmitjyoti-barman)  
