@@ -28,4 +28,3 @@ This project is a beginner-friendly introduction to Java GUI development, featur
 
 **Asmitjyoti Barman**  
 📍 IIT BHU'28 | Aspiring Software Engineer  
-🔗 [LinkedIn](www.linkedin.com/in/asmitjyoti-barman)  
